@@ -4,7 +4,7 @@
 -  Tenho formação técnica em Mecatrônica.
  ---
 
--  Trabalhei em um projeto com a função bootstrap: https://github.com/RunawayGuiga/MagazineGustagol
+-  Trabalhei em um projeto com interface web com a função bootstrap: https://github.com/RunawayGuiga/MagazineGustagol
   ---
 
  - 📫 Contato:
